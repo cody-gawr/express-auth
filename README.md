@@ -176,38 +176,3 @@ docker-compose up -d
   POST   | /api/auth/refresh-token
 +--------+-------------------------+
 ```
-
-# Screens
-
-### Home / Landing Page
-
-![Home / Landing Page](/screens/Home.png)
-> Note: This page has sub-sections, like about-us, contact-us & portfolio
-
-### LogIn Page
-
-![LogIn Page](/screens/Login.png)
-> Note: LogIn with Providers
-
-### SignUp Page
-
-![SignUp Page](/screens/SignUp.png)
-> Note: SignUp with Providers
-
-### Dashboard Page
-
-![Dashboard Page](/screens/Dashboard.png)
-
-### With Dropdown Menu
-
-![Dashboard Page with Dropdown Menu](/screens/DashboardWithDropdown.png)
-
-### Page Not Found Page
-
-![Page Not Found Page](/screens/PageNotFound.png)
-> Note: In case the requested URI does not exist, app shows this page
-
-### Under Maintenance Page
-
-![Under Maintenance Page](/screens/UnderMaintenance.png)
-> Note: In case an error is generated, so instead of plain errors we can show the under maintenance page.
